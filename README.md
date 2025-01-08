@@ -1,7 +1,5 @@
 # js1
-
-Hieman githubista ja gitistä
-
+## January 7th 2025 | 7.1.2025
 ### Mikä github on?
 
 Kehittäjille erinomainen paikka ylläpitää versiohallintaa.
@@ -25,5 +23,4 @@ huomioitavaa: upstream tutki AutoSetup!
 6. Lisätään muutokset -> git add .
 7. Muutos ja sen viesti -> git commit -m "oma-viesti"
 8. Julkaistaan muutos -> git push
-Huomioitavaa: Ota selvää push.
-autoSetupRemote
+Huomioitavaa: Ota selvää push.autoSetupRemote
