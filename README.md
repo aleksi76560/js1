@@ -1,7 +1,5 @@
 # js1
-
-Hieman githubista ja gitistä
-
+## January 7th 2025 | 7.1.2025
 ### Mikä github on?
 
 Kehittäjille erinomainen paikka ylläpitää versiohallintaa.
